@@ -89,8 +89,3 @@ Threat Intel ──┘
 
 
 ---
-
-## **🎪 DEMO PREVIEW**
-*"Watch our system detect a DDoS attack in real-time, automatically block the attacking IPs, and alert the security team - all while explaining exactly why it made these decisions."*
-
-**🎯 Simple, Smart, and Actually Works - Ready to protect organizations from Day 1!**
